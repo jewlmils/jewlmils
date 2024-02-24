@@ -33,14 +33,3 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,tailwind,git,react,javascript,ruby,rails" />
 </div>
-
-<br/>
-<hr/>
-
-<br/>
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Shoot me an email!;" />
-</h1>
-
-<br/>
