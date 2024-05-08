@@ -6,7 +6,7 @@ Software Engineer at <a href="https://www.avionschool.com/">Avion School</a><img
 Entertainment, Multimedia and Computing (EMC) at <a href="https://ucc-caloocan.edu.ph/">University of Caloocan City</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
-[![Twitter: j3wlsrawr](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
+[![Twitter: j3wlsrawr](https://img.shields.io/twitter/follow/j3wlsrawr?style=social)](https://twitter.com/j3wlsrawr)
 [![Linkedin: jewelmilagrosa](https://img.shields.io/badge/-jewelmilagrosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jewelmilagrosa/)](https://www.linkedin.com/in/jewelmilagrosa/)
 [![GitHub jewlmils](https://img.shields.io/github/followers/jewlmils?label=Follow&style=social)](https://github.com/jewlmils)
 
