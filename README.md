@@ -3,7 +3,7 @@
 <p><em>
 Software Engineer at <a href="https://www.avionschool.com/">Avion School</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </br>
-Entertainment, Multimedia and Computing (EMC) Graduate at <a href="https://ucc-caloocan.edu.ph/">University of Caloocan City</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+Entertainment, Multimedia and Computing (EMC) at <a href="https://ucc-caloocan.edu.ph/">University of Caloocan City</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
@@ -19,13 +19,14 @@ const jewls = {
   askMeAbout: ["web dev", "tech", "arts and design", "stardew valley"],
   technologies: {
                   frontEnd: {
-                    javascript: "react",
-                    css: "tailwindCSS"
+                    javascript: "React.js",
+                    cssFramework: "TailwindCSS"
                   },
                   backEnd: {
-                    ruby: "ruby on rails"
+                    ruby: "Ruby on Rails"
                   },
-                  database: ["postgreSQL"]
+                  database: ["PostgreSQL"],
+                  testing: ["Minitest", "RSpec"]
   },
  funFact: "Comments in code are like cats' purrs – they're not just there for show, they also have healing powers. Just as purring helps cats recover, well-commented code speeds up debugging, turning coding bumps into smooth sailing!"
 }
