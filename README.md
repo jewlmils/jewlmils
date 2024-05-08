@@ -1,5 +1,5 @@
 <h2> Hi, I'm Jewel Milagrosa! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://media1.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif?cid=ecf05e47w363ybjra8b7m1nhrn6ychfy1iwfiqfmoig25nrc&rid=giphy.gif&ct=s" width="230">
 <p><em>
 Software Engineer at <a href="https://www.avionschool.com/">Avion School</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </br>
